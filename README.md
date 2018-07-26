@@ -1,13 +1,13 @@
 
 
-#Go learning resources
+# Go learning resources
 
-##Installation
+## Installation
 
 Instructions for all operating systems here:
 https://golang.org/doc/install
 
-##Getting started
+## Getting started
 
 The best place to begin and for continued reference is the Tour of Go. The site provides excellent explanations of Go's syntax and capabilities. Users can go through exercises in the 'playground' online, or download the program to use on a local machine.
 
@@ -19,9 +19,9 @@ https://golang.org/doc/effective_go.html
 
 -- With just these resources for reference, you can do just about anything in Go. 
 
-##Further Resources
+## Further Resources
 
-###Udemy
+### Udemy
 
 Two excellent courses on the Udemy site are by Todd McLeod:
 
@@ -35,13 +35,13 @@ https://www.udemy.com/go-programming-language/
 
 Both are extensive and feature walk-through projects that helps to solidify the concepts.
 
-###Pluralsight
+### Pluralsight
 
 Pluralsight has several shorter courses for Go:
 
 https://www.pluralsight.com/search?q=golang
 
-##Books
+## Books
 
 *The Go Programming Language* is a comprehensive guide written by Alan Donovan and Brian Kernighan. Donovan is one of the Go's creators and Kernigham wrote the immortal 'The C Programming Language'.
 
